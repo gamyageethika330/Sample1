@@ -16,7 +16,7 @@ export const Login=() =>
     {
         try
         {
-            const res=await axios.get("http://localhost:8000/login/"+email+"/"+psw)
+            const res=await axios.get("https://mybackend-l1z8.onrender.com/login/"+email+"/"+psw)
             
                 if(res.data)
                 {

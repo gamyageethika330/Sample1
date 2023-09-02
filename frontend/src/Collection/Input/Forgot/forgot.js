@@ -11,7 +11,7 @@ export const Forgot=() =>
     const Submit=async()=>
     {
         
-            const res=await axios.post("http://localhost:8000/forgot/"+email+"/"+psw+"/"+cpsw)
+            const res=await axios.post("https://mybackend-l1z8.onrender.com/forgot/"+email+"/"+psw+"/"+cpsw)
             {
 
             

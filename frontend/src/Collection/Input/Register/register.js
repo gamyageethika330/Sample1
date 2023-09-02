@@ -14,7 +14,7 @@ export const Register=() =>
         if(psw===cpsw){
             try
         {
-            const res=await axios.post("http://localhost:8000/Login/"+name+"/"+pnum+"/"+email+"/"+psw)
+            const res=await axios.post("https://mybackend-l1z8.onrender.com/Login/"+name+"/"+pnum+"/"+email+"/"+psw)
             {
                 if(res.data)
                 {

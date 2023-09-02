@@ -8,13 +8,13 @@ export const Inp =()=>
 
     useEffect(()=>
     {
-        axios.get("http://localhost:8000/apr")
+        axios.get("https://mybackend-l1z8.onrender.com/apr")
         .then((result)=>
         {
             setprob(result.data);
 
         })
-        axios.get("http://localhost:8000/apr")
+        axios.get("https://mybackend-l1z8.onrender.com/apr")
         .then((result)=>
         {
             setprob(result.data);
