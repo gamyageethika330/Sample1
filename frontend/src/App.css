@@ -65,7 +65,7 @@
   border-radius: 45%;
 }
 .div_s{
-  background-image:url(C:\Users\gamya\Desktop\Sample1\frontend\public\s2.ico);
+  /* background-image:url(C:\Users\gamya\Desktop\Sample1\frontend\public\s2.ico); */
   background-position: center;
   background-repeat: no-repeat;
   height: 250px;
@@ -73,7 +73,7 @@
   margin-left: 15%;
 }
 .div_p{
-  background-image:url(C:\Users\gamya\Desktop\Sample1\frontend\public\p1.ico);
+  /* background-image:url(C:\Users\gamya\Desktop\Sample1\frontend\public\p1.ico); */
   background-position: center;
   background-repeat: no-repeat;
   height: 250px;
@@ -88,7 +88,7 @@
 
 }
 .div_d{
-  background-image:url(C:\Users\gamya\Desktop\Sample1\frontend\public\d1.ico);
+  /* background-image:url(C:\Users\gamya\Desktop\Sample1\frontend\public\d1.ico); */
   background-position: center;
   background-repeat: no-repeat;
   height: 250px;
@@ -109,7 +109,7 @@ align-items: center;
 margin:5vh;
 }
 .ga{
-background-image:url(C:\Users\gamya\Desktop\Sample1\frontend\public\b1.ico);
+/* background-image:url(C:\Users\gamya\Desktop\Sample1\frontend\public\b1.ico); */
   /* background-position: center; */
   background-repeat: no-repeat;
   height: 100vh;
