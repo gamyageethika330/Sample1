@@ -39,6 +39,7 @@
 .div1{
   
   /* background-image:url(C:\Users\gamya\Desktop\Sample1\frontend\public\background.ico); */
+  background-color:bisque;
   background-position:center ;
   background-repeat: no-repeat;
   height: 100%;
@@ -66,6 +67,7 @@
 }
 .div_s{
   /* background-image:url(C:\Users\gamya\Desktop\Sample1\frontend\public\s2.ico); */
+  background-color:bisque;
   background-position: center;
   background-repeat: no-repeat;
   height: 250px;
@@ -74,6 +76,7 @@
 }
 .div_p{
   /* background-image:url(C:\Users\gamya\Desktop\Sample1\frontend\public\p1.ico); */
+  background-color:bisque;
   background-position: center;
   background-repeat: no-repeat;
   height: 250px;
@@ -89,6 +92,7 @@
 }
 .div_d{
   /* background-image:url(C:\Users\gamya\Desktop\Sample1\frontend\public\d1.ico); */
+  background-color:bisque;
   background-position: center;
   background-repeat: no-repeat;
   height: 250px;
@@ -99,22 +103,29 @@
   background-color:grey;
 }
 .p_s{
+  background-color:bisque;
   margin-left: 30%;
   margin-top:-25%;
   font-size:20px;
   font-style: oblique;
 }
 .homepage{
+  background-color:bisque;
 align-items: center;
 margin:5vh;
 }
 .ga{
 /* background-image:url(C:\Users\gamya\Desktop\Sample1\frontend\public\b1.ico); */
   /* background-position: center; */
+  background-color:bisque;
   background-repeat: no-repeat;
   height: 100vh;
   width: 100%;
   background-size: 100%;
   text-align: center;
   
+}
+@media only screen and (max-width:480px){
+
+
 }
